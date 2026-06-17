@@ -1,1 +1,1 @@
-# PWM-DC-Motor-Speed-Controller
+# DC-Motor-Speed-Controller
