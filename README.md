@@ -35,7 +35,6 @@ Schematic
 <img width="2025" height="1234" alt="image" src="https://github.com/user-attachments/assets/b4dad5b0-0be9-47f4-9a93-75fb06731581" />
 
 PCB
-<img width="853" height="1031" alt="image" src="https://github.com/user-attachments/assets/f80a14df-a59f-4644-93f2-8985402ab49f" />
+<img width="884" height="1197" alt="image" src="https://github.com/user-attachments/assets/e966a293-3ede-43e1-92c0-433af4733fa8" />
 
-
-<img width="543" height="737" alt="image" src="https://github.com/user-attachments/assets/a3e34517-1d1d-4c0f-ac05-9107e7f78e08" />
+<img width="837" height="1104" alt="image" src="https://github.com/user-attachments/assets/1f916fae-8ad1-41bd-8607-a000f3c01648" />
