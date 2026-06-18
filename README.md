@@ -22,13 +22,14 @@ I made this as Version 2 of my motor controller for my V8 Engine project, as tha
 | 4.7K 0603 Resistor | RMCF0603FT4K70 | https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0603FT4K70/1760998 | $0.10 | 1 | R2 | |
 | 1K 0603 Resistor | RMCF0603FT1K00 | https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0603FT1K00/1761077 | $0.21 | 10 | R3, R4, R7, R9, R10 | Cheaper to get 10 resistors than only 5 |
 | 0805 SMD LED | LTST-C171KGKT | https://www.digikey.ca/en/products/detail/liteon/LTST-C171KGKT/386799 | $0.12 | 1 | D4 | |
+| 1x2 Screw Terminals | 282837-2 | https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/282837-2/2187973 | $3.44 | 2 | J1, M1 | |
 
 
 #### <ins>Totals (not including taxes or shipping)</ins>
 
-**Total (CAD):** $14.72
+**Total (CAD):** $17.72
 
-**Total (USD):** $10.36
+**Total (USD):** $12.57
 
 ### Images
 Schematic
