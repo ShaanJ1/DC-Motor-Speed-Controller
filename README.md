@@ -1,5 +1,5 @@
 # DC-Motor-Speed-Controller
-A PWM speed controller made for the 775 DC Motor, but can be used with other motors as well. 
+A PWM speed controller made for the 775 DC Motor, but can be used with other motors as well. It features on/off buttons, an indicator LED, and a potentiometer to control the motor's speed
 
 I made this as Version 2 of my motor controller for my V8 Engine project, as that board failed to work entirely because of bad design.
 
